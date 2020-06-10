@@ -1014,14 +1014,16 @@ section.lazy-placeholder:after {
   color: #cebfaf !important;
 }
 .cid-rZx8kL8S7w {
-  background-image: url("../../../assets/images/mbr-3-1920x1280.jpg");
+  background-image: url("../../../assets/images/mbr-1-1280x1920.jpeg");
 }
 .cid-rZx8kL8S7w H1 {
   text-align: center;
+  color: #ffffff;
 }
 .cid-rZx8kL8S7w .mbr-text,
 .cid-rZx8kL8S7w .mbr-section-btn {
   text-align: left;
+  color: #ffffff;
 }
 .cid-s17f3gmcfe {
   padding-top: 75px;
